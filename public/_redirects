@@ -2,6 +2,8 @@
 /knows/*                          https://posts.boy.sh/:splat
 /feed.xml*                        https://posts.boy.sh/feed.xml
 
+/*                                https://its.boy.sh/:splat                     301!
+
 https://xn--6s8h.to/*             https://its.boy.sh/:splat                     301!
 https://www.xn--6s8h.to/*         https://its.boy.sh/:splat                     301!
 https://boyvanamstel.nl/*         https://its.boy.sh/:splat                     301!
