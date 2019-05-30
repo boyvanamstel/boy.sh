@@ -1,12 +1,13 @@
-/:year/:month/:slug               https://posts.boy.sh/:slug
-/knows/*                          https://posts.boy.sh/:splat
-/feed.xml*                        https://posts.boy.sh/feed.xml
+/:year/:month/:slug                                                       https://posts.boy.sh/:slug
+/knows/write-protecting-resolvconf-might-stabalize-your-vpn-connection    https://posts.boy.sh/write-protecting-resolvconf-might-stabilize-your-vpn-connection
+/knows/*                                                                  https://posts.boy.sh/:splat
+/feed.xml*                                                                https://posts.boy.sh/feed.xml
 
-https://boy.sh/*                  https://its.boy.sh/:splat                     301!
-https://www.boy.sh/*              https://its.boy.sh/:splat                     301!
-https://xn--6s8h.to/*             https://its.boy.sh/:splat                     301!
-https://www.xn--6s8h.to/*         https://its.boy.sh/:splat                     301!
-https://boyvanamstel.nl/*         https://its.boy.sh/:splat                     301!
-https://www.boyvanamstel.nl/*     https://its.boy.sh/:splat                     301!
-https://boyvanamstel.com/*        https://its.boy.sh/:splat                     301!
-https://www.boyvanamstel.com/*    https://its.boy.sh/:splat                     301!
+https://boy.sh/*                                                          https://its.boy.sh/:splat                     301!
+https://www.boy.sh/*                                                      https://its.boy.sh/:splat                     301!
+https://xn--6s8h.to/*                                                     https://its.boy.sh/:splat                     301!
+https://www.xn--6s8h.to/*                                                 https://its.boy.sh/:splat                     301!
+https://boyvanamstel.nl/*                                                 https://its.boy.sh/:splat                     301!
+https://www.boyvanamstel.nl/*                                             https://its.boy.sh/:splat                     301!
+https://boyvanamstel.com/*                                                https://its.boy.sh/:splat                     301!
+https://www.boyvanamstel.com/*                                            https://its.boy.sh/:splat                     301!
