@@ -1,10 +1,10 @@
-/20*                              https://blog.boyvanamstel.nl/20:splat
-https://www.boy.sh/knows/*        https://tech.boy.sh/knows/:splat              301!
-https://www.boy.sh/feed.xml*      https://tech.boy.sh/feed.xml                  301!
+/:year/:month/:slug               https://posts.boy.sh/:slug
+/knows/*                          https://posts.boy.sh/:splat
+/feed.xml*                        https://posts.boy.sh/feed.xml
 
-https://xn--6s8h.to/*             https://www.boy.sh/:splat                     301!
-https://www.xn--6s8h.to/*         https://www.boy.sh/:splat                     301!
-https://boyvanamstel.nl/*         https://www.boy.sh/:splat                     301!
-https://www.boyvanamstel.nl/*     https://www.boy.sh/:splat                     301!
-https://boyvanamstel.com/*        https://www.boy.sh/:splat                     301!
-https://www.boyvanamstel.com/*    https://www.boy.sh/:splat                     301!
+https://xn--6s8h.to/*             https://its.boy.sh/:splat                     301!
+https://www.xn--6s8h.to/*         https://its.boy.sh/:splat                     301!
+https://boyvanamstel.nl/*         https://its.boy.sh/:splat                     301!
+https://www.boyvanamstel.nl/*     https://its.boy.sh/:splat                     301!
+https://boyvanamstel.com/*        https://its.boy.sh/:splat                     301!
+https://www.boyvanamstel.com/*    https://its.boy.sh/:splat                     301!
